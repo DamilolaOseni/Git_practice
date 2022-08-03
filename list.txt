@@ -6,6 +6,12 @@ Apples
 
 MEAT
 Sausages
+Bacon
+Lamb
+Beef
+Pork
+Rabbit
+
 DAIRY
 
 HOUSEHOLD
